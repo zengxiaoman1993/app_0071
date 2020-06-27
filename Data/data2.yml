@@ -1,0 +1,11 @@
+
+
+imfo:  &data
+  name: "lili"
+  age: "16"
+  
+address:
+  detail: 广东省
+  <<: *data
+
+

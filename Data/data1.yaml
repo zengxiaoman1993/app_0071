@@ -1,0 +1,20 @@
+# 注释符号
+
+#name: "lili"
+#Name: "lilo"
+#
+#info:
+#  - name: "lolo"
+#  - age: "18"
+
+#Data:
+#  - "lili"
+#  -  "nv"
+
+#data1: ["name", "男"]
+
+#value1: ~
+#value2:
+
+data1: 2020-11-11 01:02:03
+data2: 2020-01-02
